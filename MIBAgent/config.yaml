@@ -1,0 +1,9 @@
+apiserver: http://192.168.111.13:8000/
+token: DC45FE62-F595-4CAB-B7C0-DF27A68D9E67
+intervel: 10000
+
+server:  192.168.111.13
+db_name: mib
+db_password: Test@1
+db_user: mibagent
+port: 3306
